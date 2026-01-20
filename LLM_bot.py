@@ -7,7 +7,7 @@ st.set_page_config(
 )
 
 st.image(
-    "butterfly.jpg",  
+    "HOME.png",  
     width=500       
 )
 
